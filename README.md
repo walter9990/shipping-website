@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Depot Shipping Website - Complete Documentation
 
 ## Project Overview
@@ -554,3 +555,6 @@ For issues or questions:
 ---
 
 *Built with ❤️ using Node.js, Express, and SQLite*
+=======
+# shipping-website
+>>>>>>> b74d5521040bfc0725e305902f2577b1f08457ed
